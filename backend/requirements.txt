@@ -5,7 +5,7 @@ greenlet==3.1.1
 PyMySQL==1.1.1
 python-dotenv==1.0.1
 PyYAML==6.0.2
-starlette==0.38.6
+starlette==0.39.2
 pydantic
 google-generativeai
 sqlalchemy
